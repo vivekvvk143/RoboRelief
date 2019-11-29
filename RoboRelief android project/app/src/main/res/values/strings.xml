@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Robo Relief</string>
+    <string name="what_s_on_your_mind">Enter your query</string>
+    <string name="vivek_kumar">Vivek Kumar</string>
+    <!--string name="meet_the_team">Meet the team</string-->
+    <string name="adarsh_dwivedi">Adarsh Dwivedi</string>
+    <string name="todo">TODO</string>
+    <string name="abhishek_saini">Abhishek Saini</string>
+
+
+</resources>

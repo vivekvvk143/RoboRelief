@@ -1,0 +1,5 @@
+<resources>
+    <!--dimens name="my_value"> 15dp</dimens-->
+    <!--dimens name="my_value1"> 20dp</dimens>
+    <!- Default screen margins, per the Android Design guidelines. -->
+</resources>

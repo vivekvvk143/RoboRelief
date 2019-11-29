@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:paddingBottom="@dimen/my_value"
+    android:paddingRight="@dimen/my_value1"
+    android:paddingLeft="@dimen/my_value1"
+    android:paddingTop="@dimen/my_value"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.vmac.chatbot.audio_temp">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/scene1"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/audioStreamBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:layout_marginTop="70dp"
+        android:textSize="18sp"
+        android:text="Launch Streaming"
+        android:layout_centerHorizontal="true"/>
+
+
+</RelativeLayout>
